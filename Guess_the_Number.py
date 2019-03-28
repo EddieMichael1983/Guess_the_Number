@@ -3,7 +3,7 @@
 import random
 num1 = random.randint(1,10)
 
-counter = 0    #sets up counting function
+counter = 1    #sets up counting function (starting at 1 because the user will guess at least one time)
 
 while True:
 
